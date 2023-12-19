@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/HDFGroup/arch-doc" target="_blank" rel="noopener noreferrer"><img src="images/logo/HDF5_logo.pdf?raw=true" alt="re-frame logo"></a></p>
 
-## Reasoning
+## Project Philosophy
 
 > I don't mean a bricks and mortar architect. I mean an architect as used in the words _architect of foreign policy_. I mean architect as in the creating of systemic, structural, and orderly principles to make something work -- the thoughtful making of either artifact, or idea, or policy that informs because it is clear. I use the word information in its truest sense. Most of the word information contains the word _inform_, so I call things information only if they inform me, not if they are just collections of data, of stuff. (Saul Wurman)
 
