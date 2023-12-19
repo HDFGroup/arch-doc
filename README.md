@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/HDFGroup/arch-doc" target="_blank" rel="noopener noreferrer"><img src="images/logo/HDF5_logo.pdf?raw=true" alt="re-frame logo"></a></p>
+<p align="center"><a href="https://github.com/HDFGroup/arch-doc" target="_blank" rel="noopener noreferrer"><img src="images/HDF5_logo.png?raw=true" alt="HDF5 logo"></a></p>
 
 ## Project Philosophy
 
