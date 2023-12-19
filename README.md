@@ -6,7 +6,6 @@
 
 > -- Saul Wurman <br>
 <br/>
-<br/>
 
 ## Overview
 
